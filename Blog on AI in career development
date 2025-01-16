@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AI in Career Development</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 20px;
+            color: #333;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        h1 {
+            font-size: 2rem;
+        }
+        article {
+            background-color: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #007BFF;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>AI in Career Development</h1>
+</header>
+
+<article>
+    <p>Artificial Intelligence (AI) is reshaping career development in countless ways. From helping individuals find the best job matches to personalizing skill-building recommendations, AI is making the career journey more efficient and tailored.</p>
+    
+    <p>AI-driven platforms like LinkedIn use algorithms to suggest jobs based on an individual’s skills, experience, and career goals, significantly improving the job search process.</p>
+    
+<img src=C:\Users\admin\Downloads\Blog image.jpg" width=150px heigh=150px align="right">
+
+    <p>Additionally, AI tools are enhancing career planning by identifying skill gaps and recommending courses for professional development. They also offer personalized mentorship and coaching, helping individuals grow their careers with more informed decisions.</p>
+    
+    <p>As AI continues to evolve, its role in career development will become increasingly essential, allowing professionals to stay competitive and prepared for the future of work.</p>
+</article>
+
+<footer>
+    <p>&copy; 2025 Career Development with AI</p>
+</footer>
+
+</body>
+</html>
